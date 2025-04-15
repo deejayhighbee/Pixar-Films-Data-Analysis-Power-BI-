@@ -1,0 +1,205 @@
+number,category,value
+1,Genre,Adventure
+1,Genre,Animation
+1,Genre,Comedy
+1,Subgenre,Buddy Comedy
+1,Subgenre,Computer Animation
+1,Subgenre,Fantasy
+1,Subgenre,Supernatural Fantasy
+1,Subgenre,Urban Adventure
+2,Genre,Adventure
+2,Genre,Animation
+2,Genre,Comedy
+2,Subgenre,Animal Adventure
+2,Subgenre,Computer Animation
+2,Subgenre,Quest
+3,Genre,Adventure
+3,Genre,Animation
+3,Genre,Comedy
+3,Subgenre,Computer Animation
+3,Subgenre,Fantasy
+3,Subgenre,Quest
+3,Subgenre,Supernatural Fantasy
+3,Subgenre,Urban Adventure
+4,Genre,Adventure
+4,Genre,Animation
+4,Genre,Comedy
+4,Subgenre,Buddy Comedy
+4,Subgenre,Computer Animation
+4,Subgenre,Fantasy
+4,Subgenre,Supernatural Fantasy
+4,Subgenre,Urban Adventure
+5,Genre,Adventure
+5,Genre,Animation
+5,Genre,Comedy
+5,Subgenre,Animal Adventure
+5,Subgenre,Buddy Comedy
+5,Subgenre,Computer Animation
+5,Subgenre,Quest
+5,Subgenre,Sea Adventure
+6,Genre,Action
+6,Genre,Adventure
+6,Genre,Animation
+6,Subgenre,Computer Animation
+6,Subgenre,Superhero
+6,Subgenre,Urban Adventure
+7,Genre,Adventure
+7,Genre,Animation
+7,Genre,Comedy
+7,Subgenre,Computer Animation
+7,Subgenre,Motorsport
+7,Subgenre,Sport
+8,Genre,Adventure
+8,Genre,Animation
+8,Genre,Comedy
+8,Subgenre,Animal Adventure
+8,Subgenre,Computer Animation
+8,Subgenre,Fantasy
+9,Genre,Adventure
+9,Genre,Animation
+9,Genre,Family
+9,Subgenre,Adventure Epic
+9,Subgenre,Artificial Intelligence
+9,Subgenre,Computer Animation
+9,Subgenre,Dystopian Sci-Fi
+9,Subgenre,Sci-Fi
+9,Subgenre,Space Sci-Fi
+10,Genre,Adventure
+10,Genre,Animation
+10,Genre,Comedy
+10,Subgenre,Coming-of-Age
+10,Subgenre,Computer Animation
+10,Subgenre,Globetrotting Adventure
+11,Genre,Adventure
+11,Genre,Animation
+11,Genre,Comedy
+11,Subgenre,Computer Animation
+11,Subgenre,Fantasy
+11,Subgenre,Supernatural Fantasy
+11,Subgenre,Urban Adventure
+12,Genre,Adventure
+12,Genre,Animation
+12,Genre,Comedy
+12,Subgenre,Car Action
+12,Subgenre,Computer Animation
+12,Subgenre,Crime
+12,Subgenre,Motorsport
+12,Subgenre,Sport
+12,Subgenre,Spy
+13,Genre,Action
+13,Genre,Adventure
+13,Genre,Animation
+13,Subgenre,Coming-of-Age
+13,Subgenre,Computer Animation
+13,Subgenre,Fairy Tale
+13,Subgenre,Quest
+13,Subgenre,Sword & Sorcery
+13,Subgenre,Teen Adventure
+14,Genre,Adventure
+14,Genre,Animation
+14,Genre,Comedy
+14,Subgenre,Computer Animation
+14,Subgenre,Fantasy
+15,Genre,Adventure
+15,Genre,Animation
+15,Genre,Comedy
+15,Subgenre,Coming-of-Age
+15,Subgenre,Computer Animation
+15,Subgenre,Fantasy
+16,Genre,Action
+16,Genre,Adventure
+16,Genre,Animation
+16,Subgenre,Animal Adventure
+16,Subgenre,Buddy Comedy
+16,Subgenre,Computer Animation
+16,Subgenre,Dinosaur Adventure
+17,Genre,Adventure
+17,Genre,Animation
+17,Genre,Comedy
+17,Subgenre,Animal Adventure
+17,Subgenre,Computer Animation
+17,Subgenre,Fantasy
+17,Subgenre,Sea Adventure
+18,Genre,Adventure
+18,Genre,Animation
+18,Genre,Comedy
+18,Subgenre,Car Action
+18,Subgenre,Computer Animation
+18,Subgenre,Motorsport
+18,Subgenre,Sport
+19,Genre,Adventure
+19,Genre,Animation
+19,Genre,Drama
+19,Subgenre,Computer Animation
+19,Subgenre,Fantasy
+19,Subgenre,Music
+19,Subgenre,Mystery
+19,Subgenre,Supernatural Fantasy
+20,Genre,Action
+20,Genre,Adventure
+20,Genre,Animation
+20,Subgenre,Computer Animation
+20,Subgenre,Sci-Fi
+20,Subgenre,Superhero
+20,Subgenre,Urban Adventure
+21,Genre,Adventure
+21,Genre,Animation
+21,Genre,Comedy
+21,Subgenre,Computer Animation
+21,Subgenre,Fantasy
+21,Subgenre,Road Trip
+21,Subgenre,Supernatural Fantasy
+21,Subgenre,Urban Adventure
+22,Genre,Adventure
+22,Genre,Animation
+22,Genre,Comedy
+22,Subgenre,Computer Animation
+22,Subgenre,Fantasy Epic
+22,Subgenre,Quest
+22,Subgenre,Supernatural Fantasy
+22,Subgenre,Sword & Sorcery
+23,Genre,Adventure
+23,Genre,Animation
+23,Genre,Comedy
+23,Subgenre,Computer Animation
+23,Subgenre,Fantasy
+23,Subgenre,Music
+24,Genre,Adventure
+24,Genre,Animation
+24,Genre,Comedy
+24,Subgenre,Coming-of-Age
+24,Subgenre,Computer Animation
+24,Subgenre,Fairy Tale
+24,Subgenre,Fantasy
+24,Subgenre,Sea Adventure
+25,Genre,Adventure
+25,Genre,Animation
+25,Genre,Comedy
+25,Subgenre,Coming-of-Age
+25,Subgenre,Computer Animation
+25,Subgenre,Fantasy
+25,Subgenre,Music
+25,Subgenre,Teen Comedy
+26,Genre,Action
+26,Genre,Adventure
+26,Genre,Animation
+26,Subgenre,Computer Animation
+26,Subgenre,Sci-Fi
+26,Subgenre,Space Sci-Fi
+26,Subgenre,Superhero
+26,Subgenre,Time Travel
+27,Genre,Adventure
+27,Genre,Animation
+27,Genre,Comedy
+27,Subgenre,Computer Animation
+27,Subgenre,Fantasy
+27,Subgenre,Romance
+27,Subgenre,Urban Adventure
+28,Genre,Adventure
+28,Genre,Animation
+28,Genre,Comedy
+28,Subgenre,Coming-of-Age
+28,Subgenre,Computer Animation
+28,Subgenre,Quest
+28,Subgenre,Teen Comedy
+28,Subgenre,Teen Drama
