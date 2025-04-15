@@ -15,6 +15,6 @@ This approach ensures that the raw data stays intact for reproducibility. Users 
 
 find modified files [here](https://github.com/deejayhighbee/Pixar-Films-Data-Analysis/tree/main/modified_files)
 
-Dsahboard is created using the [modified datasets](https://github.com/deejayhighbee/Pixar-Films-Data-Analysis/tree/main/modified_files)
+Visualizations are done using the [modified datasets](https://github.com/deejayhighbee/Pixar-Films-Data-Analysis/tree/main/modified_files)
 
 [Project](https://mavenanalytics.io/project/30567)
